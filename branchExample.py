@@ -8,4 +8,4 @@ Date: May 5, 2026
 counter = 0;
 while (counter < 10):
     print("Time: " + str(counter))
-    counter += 1
+    counter += 2
